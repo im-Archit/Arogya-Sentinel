@@ -1,9 +1,9 @@
-# QuantumDiagnose 🧠🩺  
+# Arogya-Sentinel 🧠🩺  
 **Multi-disease risk screening using ML-powered diagnostics**  
 [🌐 Live Site](https://quantum-new.vercel.app/) • [📂 GitHub Repo](https://github.com/im-Archit/QuantumNew)
 
 ## Overview  
-QuantumDiagnose is a web platform that allows users to screen themselves for four major chronic diseases — **heart disease, kidney disease, liver disease, and diabetes** — using machine learning models trained on real clinical datasets.
+Arogya-Sentinel is a web platform that allows users to screen themselves for four major chronic diseases — **heart disease, kidney disease, liver disease, and diabetes** — using machine learning models trained on real clinical datasets.
 
 The tool focuses on accuracy, interpretability, and accessibility, giving users real-time risk guidance based on their report data.
 
